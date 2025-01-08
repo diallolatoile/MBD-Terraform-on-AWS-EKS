@@ -1,0 +1,2 @@
+VPC created on 30/12/2024 and VPC ID: vpc-09d03d1ee2c84a1f0 
+VPC created on 07/01/2025 and VPC ID: vpc-05d8070aba825a020 
